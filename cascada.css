@@ -1,0 +1,67 @@
+.center{
+	margin: auto;
+}
+.menu{
+	width:983px;
+	height:39px;
+}
+.titulo{
+	font-family:tahoma;
+	font-size:75px;
+	text-align:center;
+	text-shadow: 2px 2px #AFAFAF;
+	blur:50px;
+
+	
+}
+.subtitulo{
+	font-family:Arial;
+	font-size:75px;
+	text-align:left;
+	text-shadow: 2px 2px #AFAFAF;
+	
+
+}
+p{
+	font-family:tahoma;
+	text-align:center;
+}
+img{
+	height:300px;
+	width:1000px;
+}
+ h2{​​​​
+ font-family:tahoma;
+ font-size:30px;
+ color:#7c7c7c;
+ text-align:center;
+ width:250px;
+ }​​​​
+ #contenedor{
+ 	width: 1000px;
+ 	background-color:white;
+ }
+ nav{
+ 	width: 1000px;
+ 	height: 39px;
+ }
+ header{
+ 	width: 1000px;
+ 	height: 150px
+ }
+ section.arriba{
+ 	width: 1000px;
+ }
+ div.etiqueta{
+ 	float: left;
+ 	width:25%;
+ }
+ section.abajo{
+ 	clear:both;
+ 	width:1000px;
+ }
+ div.part{
+ width:25%;
+ float:left;
+ background-color:white
+ }
